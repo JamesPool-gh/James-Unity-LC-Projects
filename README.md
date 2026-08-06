@@ -1,4 +1,4 @@
-![Unity Version](https://img.shields.io/badge/Unity-2021.3%20LTS-blue)
+![Unity Version](https://img.shields.io/badge/Unity-2022.3%20LTS-blue)
 ![Release Version](https://img.shields.io/badge/Release-v1.0-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
